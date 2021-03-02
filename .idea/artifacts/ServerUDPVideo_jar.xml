@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ServerUDPVideo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ServerUDPVideo_jar</output-path>
+    <root id="archive" name="ServerUDPVideo.jar">
+      <element id="module-output" name="ZoomRossiServer" />
+    </root>
+  </artifact>
+</component>
